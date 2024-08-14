@@ -28,7 +28,7 @@ The Power BI report aims to provide a comprehensive analysis of budgeted versus 
   
   Total sales and variance by product category.
 
-**Dashboard Features**
+**4. Dashboard Features**
   
   **Interactive Filters:** Allow users to filter data by product, category, or time period to focus on specific areas of interest.
   
@@ -36,7 +36,7 @@ The Power BI report aims to provide a comprehensive analysis of budgeted versus 
   
   **KPI Indicators:** Display key performance indicators (KPIs) such as total sales, total budget, and overall variance.
 
-**Insights**
+**5. Insights**
 
 **Identify Underperforming Products:** Products with significant negative variances could require investigation or adjustment in strategy.
 
