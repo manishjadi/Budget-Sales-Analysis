@@ -3,7 +3,9 @@ The Power BI report aims to provide a comprehensive analysis of budgeted versus 
 
 **2. Data Sources**
   **Budget Data:** Monthly budgeted amounts for each product.
+  
   **Sales Data:** Daily actual sales amounts for each product.
+  
   **Product Master:** Details of products, including names and categories.
 
 **3. Key Metrics and Visualizations**
