@@ -1,4 +1,5 @@
 **1. Objective**
+
 The Power BI report aims to provide a comprehensive analysis of budgeted versus actual sales performance across various products. The data includes monthly budgeted amounts, daily sales figures, and product details, enabling a deep dive into financial performance.
 
 **2. Data Sources**
